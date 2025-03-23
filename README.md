@@ -9,9 +9,9 @@ Please fill in the required details below and submit your repository or website 
 
 ## 📌 Project Information  
 
-- **Team Name (if applicable):** _(Enter your team name here)_  
-- **Developer(s):** _(List team members or individual developer name)_  
-- **Project Repository Link:** [Your GitHub Repo](#)  
+- **Team Name (if applicable):** _Trio_  
+- **Developer(s):** _(Azya A,Bathisha A,Anjana S)_ 
+- **Project Repository Link:** [https://github.com/BathishaA/college-website/edit/main/README.md](#)  
 - **Live Website Link:** [Your Live Website](#)  
 
 ---
