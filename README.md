@@ -12,7 +12,7 @@ Please fill in the required details below and submit your repository or website 
 - **Team Name (if applicable):** _Trio_  
 - **Developer(s):** _(Azya A,Bathisha A,Anjana S)_ 
 - **Project Repository Link:** [https://github.com/BathishaA/college-website/edit/main/README.md](#)  
-- **Live Website Link:** [Your Live Website](#)  
+- **Live Website Link:** [Your Live Website](https://bathishaa.github.io/college-website/)  
 
 ---
 
