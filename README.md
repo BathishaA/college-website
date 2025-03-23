@@ -33,9 +33,9 @@ Your project will be evaluated based on the following:
 _(Mention features, design enhancements, animations, interactivity, etc.)_  
 
 > Example:  
-> - Improve mobile responsiveness  
-> - Add interactive elements like hover effects and animations  
-> - Enhance the visual appeal with a better color palette  
+> - Improve responsive design  
+> - image slideshow  
+> -  dark mode 
 
 ---
 
